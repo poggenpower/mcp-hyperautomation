@@ -1,3 +1,5 @@
+# Hello don't use this Repo it is for tests only
+
 # HyperAutomation MCP Server (Alpha)
 
 ## Table of Contents
